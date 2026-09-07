@@ -42,6 +42,6 @@ Functions to initialize and manipulate a custom linked list structure (`t_list`)
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/libft.git](https://github.com/your-username/libft.git)
+   git clone https://github.com/Khantdotcom/libft.git
    cd libft
    ```
